@@ -1,0 +1,35 @@
+[
+  {
+    "columns": [
+      "InvoiceNumber"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "LAB-INV-2026-000002"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "CancelledNumber"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "3"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "NextNumber"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "4"
+      ]
+    ]
+  }
+]

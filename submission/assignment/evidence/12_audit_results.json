@@ -1,0 +1,236 @@
+[
+  {
+    "columns": [
+      "Id",
+      "CourseId",
+      "OldMark",
+      "NewMark",
+      "ChangedAtUtc",
+      "ChangedBy"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "1",
+        "203",
+        "65.00",
+        "70.00",
+        "11/27/2026 2:28:22 PM",
+        "MicrosoftAccount\\ziadelmaghraby0@outlook.com"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Id",
+      "SectionId",
+      "Title",
+      "Body",
+      "PublishedAtUtc",
+      "ExpiresAtUtc",
+      "CreatedByUserId",
+      "CreatedAtUtc",
+      "UpdatedAtUtc",
+      "Status",
+      "ArchivedAtUtc"
+    ],
+    "rowCount": 3330,
+    "sample": [
+      [
+        "1",
+        "7",
+        "Welcome to CS101 — Section 02",
+        "Welcome to Programming Fundamentals. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2024 12:00:00 AM",
+        "1/13/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "2",
+        "127",
+        "Welcome to CS101 — Section 01",
+        "Welcome to Programming Fundamentals. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2024 12:00:00 AM",
+        "1/13/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "3",
+        "187",
+        "Welcome to CS101 — Section 01",
+        "Welcome to Programming Fundamentals. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2025 12:00:00 AM",
+        "1/13/2026 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "4",
+        "367",
+        "Welcome to CS101 — Section 01",
+        "Welcome to Programming Fundamentals. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "2/16/2025 12:00:00 AM",
+        "6/15/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "13",
+        "368",
+        "Welcome to CS102 — Section 01",
+        "Welcome to Object-Oriented Programming. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "2/16/2025 12:00:00 AM",
+        "6/15/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "14",
+        "188",
+        "Welcome to CS102 — Section 01",
+        "Welcome to Object-Oriented Programming. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2025 12:00:00 AM",
+        "1/13/2026 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "15",
+        "128",
+        "Welcome to CS102 — Section 01",
+        "Welcome to Object-Oriented Programming. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2024 12:00:00 AM",
+        "1/13/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "16",
+        "8",
+        "Welcome to CS102 — Section 02",
+        "Welcome to Object-Oriented Programming. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2024 12:00:00 AM",
+        "1/13/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "17",
+        "9",
+        "Welcome to CS103 — Section 02",
+        "Welcome to Data Structures. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2024 12:00:00 AM",
+        "1/13/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "18",
+        "129",
+        "Welcome to CS103 — Section 01",
+        "Welcome to Data Structures. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2024 12:00:00 AM",
+        "1/13/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "19",
+        "189",
+        "Welcome to CS103 — Section 01",
+        "Welcome to Data Structures. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2025 12:00:00 AM",
+        "1/13/2026 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "20",
+        "369",
+        "Welcome to CS103 — Section 01",
+        "Welcome to Data Structures. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "2/16/2025 12:00:00 AM",
+        "6/15/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "29",
+        "370",
+        "Welcome to CS104 — Section 01",
+        "Welcome to Algorithms and Complexity. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "2/16/2025 12:00:00 AM",
+        "6/15/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "30",
+        "190",
+        "Welcome to CS104 — Section 01",
+        "Welcome to Algorithms and Complexity. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2025 12:00:00 AM",
+        "1/13/2026 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ],
+      [
+        "31",
+        "130",
+        "Welcome to CS104 — Section 01",
+        "Welcome to Algorithms and Complexity. Please review the syllabus, weekly modules, office hours, and assessment deadlines before the first class.",
+        "9/16/2024 12:00:00 AM",
+        "1/13/2025 12:00:00 AM",
+        "1",
+        "10/3/2026 4:36:05 PM",
+        "10/3/2026 4:36:05 PM",
+        "2",
+        "11/27/2026 2:28:22 PM"
+      ]
+    ]
+  }
+]
