@@ -1,0 +1,10 @@
+7.1: PASS, symmetric difference = 0 ids.
+7.2: PASS, symmetric difference = 0 ids.
+7.3: PASS, symmetric difference = 0 ids.
+7.4: PASS, symmetric difference = 0 ids.
+7.5: PASS, symmetric difference = 0 ids.
+7.6: PASS, symmetric difference = 0 ids.
+7.7 value: PASS, symmetric difference = 0 ids.
+7.7 NULL: PASS, symmetric difference = 0 ids.
+7.8: PASS, symmetric difference = 0 ids.
+These queries return one row per primary key, so comparing id sets verifies returned row identity without duplicate ambiguity.

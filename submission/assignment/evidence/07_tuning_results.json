@@ -1,0 +1,1054 @@
+[
+  {
+    "columns": [
+      "Id",
+      "Email"
+    ],
+    "rowCount": 1054,
+    "sample": [
+      [
+        "50406",
+        "spread.stu8245@lms.local"
+      ],
+      [
+        "52276",
+        "spread.stu10245@lms.local"
+      ],
+      [
+        "52371",
+        "spread.stu13245@lms.local"
+      ],
+      [
+        "53863",
+        "spread.stu6245@lms.local"
+      ],
+      [
+        "54838",
+        "spread.stu4245@lms.local"
+      ],
+      [
+        "55235",
+        "spread.stu18245@lms.local"
+      ],
+      [
+        "56876",
+        "spread.stu16245@lms.local"
+      ],
+      [
+        "57971",
+        "spread.stu14245@lms.local"
+      ],
+      [
+        "59093",
+        "spread.stu11245@lms.local"
+      ],
+      [
+        "59848",
+        "spread.stu7245@lms.local"
+      ],
+      [
+        "59977",
+        "spread.stu2245@lms.local"
+      ],
+      [
+        "60405",
+        "spread.stu15245@lms.local"
+      ],
+      [
+        "61071",
+        "spread.stu5245@lms.local"
+      ],
+      [
+        "61438",
+        "spread.stu3245@lms.local"
+      ],
+      [
+        "62585",
+        "spread.stu17245@lms.local"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "Email"
+    ],
+    "rowCount": 1054,
+    "sample": [
+      [
+        "50406",
+        "spread.stu8245@lms.local"
+      ],
+      [
+        "52276",
+        "spread.stu10245@lms.local"
+      ],
+      [
+        "52371",
+        "spread.stu13245@lms.local"
+      ],
+      [
+        "53863",
+        "spread.stu6245@lms.local"
+      ],
+      [
+        "54838",
+        "spread.stu4245@lms.local"
+      ],
+      [
+        "55235",
+        "spread.stu18245@lms.local"
+      ],
+      [
+        "56876",
+        "spread.stu16245@lms.local"
+      ],
+      [
+        "57971",
+        "spread.stu14245@lms.local"
+      ],
+      [
+        "59093",
+        "spread.stu11245@lms.local"
+      ],
+      [
+        "59848",
+        "spread.stu7245@lms.local"
+      ],
+      [
+        "59977",
+        "spread.stu2245@lms.local"
+      ],
+      [
+        "60405",
+        "spread.stu15245@lms.local"
+      ],
+      [
+        "61071",
+        "spread.stu5245@lms.local"
+      ],
+      [
+        "61438",
+        "spread.stu3245@lms.local"
+      ],
+      [
+        "62585",
+        "spread.stu17245@lms.local"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "InvoiceId",
+      "Amount"
+    ],
+    "rowCount": 15548,
+    "sample": [
+      [
+        "107485",
+        "135437",
+        "1725.00"
+      ],
+      [
+        "107486",
+        "123721",
+        "2325.00"
+      ],
+      [
+        "107488",
+        "130906",
+        "2250.00"
+      ],
+      [
+        "107489",
+        "132234",
+        "2550.00"
+      ],
+      [
+        "107490",
+        "132403",
+        "1012.50"
+      ],
+      [
+        "107491",
+        "127966",
+        "1012.50"
+      ],
+      [
+        "107492",
+        "131384",
+        "1012.50"
+      ],
+      [
+        "107493",
+        "128699",
+        "742.50"
+      ],
+      [
+        "107494",
+        "126120",
+        "1750.00"
+      ],
+      [
+        "107495",
+        "130365",
+        "2350.00"
+      ],
+      [
+        "107497",
+        "128799",
+        "1875.00"
+      ],
+      [
+        "107498",
+        "129463",
+        "877.50"
+      ],
+      [
+        "107499",
+        "135978",
+        "2475.00"
+      ],
+      [
+        "107501",
+        "130714",
+        "2250.00"
+      ],
+      [
+        "107503",
+        "124949",
+        "1147.50"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "InvoiceId",
+      "Amount"
+    ],
+    "rowCount": 15548,
+    "sample": [
+      [
+        "107485",
+        "135437",
+        "1725.00"
+      ],
+      [
+        "107486",
+        "123721",
+        "2325.00"
+      ],
+      [
+        "107488",
+        "130906",
+        "2250.00"
+      ],
+      [
+        "107489",
+        "132234",
+        "2550.00"
+      ],
+      [
+        "107490",
+        "132403",
+        "1012.50"
+      ],
+      [
+        "107491",
+        "127966",
+        "1012.50"
+      ],
+      [
+        "107492",
+        "131384",
+        "1012.50"
+      ],
+      [
+        "107493",
+        "128699",
+        "742.50"
+      ],
+      [
+        "107494",
+        "126120",
+        "1750.00"
+      ],
+      [
+        "107495",
+        "130365",
+        "2350.00"
+      ],
+      [
+        "107497",
+        "128799",
+        "1875.00"
+      ],
+      [
+        "107498",
+        "129463",
+        "877.50"
+      ],
+      [
+        "107499",
+        "135978",
+        "2475.00"
+      ],
+      [
+        "107501",
+        "130714",
+        "2250.00"
+      ],
+      [
+        "107503",
+        "124949",
+        "1147.50"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "FirstName",
+      "LastName"
+    ],
+    "rowCount": 839,
+    "sample": [
+      [
+        "364",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "3964",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "7564",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "11276",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "14876",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "18476",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "22076",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "25676",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "29276",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "32876",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "36476",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "40076",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "43676",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "47276",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "1745",
+        "Ahmed",
+        "Abdelrahman"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "FirstName",
+      "LastName"
+    ],
+    "rowCount": 839,
+    "sample": [
+      [
+        "35",
+        "Noah",
+        "Abdelrahman"
+      ],
+      [
+        "64",
+        "Andrew",
+        "Abdelrahman"
+      ],
+      [
+        "153",
+        "James",
+        "Abdelrahman"
+      ],
+      [
+        "242",
+        "Sofia",
+        "Abdelrahman"
+      ],
+      [
+        "271",
+        "Dina",
+        "Abdelrahman"
+      ],
+      [
+        "317",
+        "Daniel",
+        "Abdelrahman"
+      ],
+      [
+        "364",
+        "Adam",
+        "Abdelrahman"
+      ],
+      [
+        "471",
+        "Rania",
+        "Abdelrahman"
+      ],
+      [
+        "518",
+        "Leo",
+        "Abdelrahman"
+      ],
+      [
+        "565",
+        "Fatima",
+        "Abdelrahman"
+      ],
+      [
+        "612",
+        "Anthony",
+        "Abdelrahman"
+      ],
+      [
+        "719",
+        "Victor",
+        "Abdelrahman"
+      ],
+      [
+        "766",
+        "Nadia",
+        "Abdelrahman"
+      ],
+      [
+        "813",
+        "James",
+        "Abdelrahman"
+      ],
+      [
+        "860",
+        "Elizabeth",
+        "Abdelrahman"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "OccurredAtUtc",
+      "ActorUserId",
+      "ActionCode",
+      "EntitySchema",
+      "EntityName",
+      "EntityKey",
+      "CorrelationId",
+      "OldValuesJson",
+      "NewValuesJson",
+      "ClientIpAddress"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "50000",
+        "8/27/2026 6:40:00 PM",
+        "",
+        "VIEWED",
+        "delivery",
+        "Enrollments",
+        "50000",
+        "5a751058-f63f-4458-b5bb-bff6d03e08d9",
+        "",
+        "{\"source\":\"student-information-system\",\"sequence\":50000}",
+        "192.0.2.1"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "OccurredAtUtc",
+      "ActorUserId",
+      "ActionCode",
+      "EntitySchema",
+      "EntityName",
+      "EntityKey",
+      "CorrelationId",
+      "OldValuesJson",
+      "NewValuesJson",
+      "ClientIpAddress"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "50000",
+        "8/27/2026 6:40:00 PM",
+        "",
+        "VIEWED",
+        "delivery",
+        "Enrollments",
+        "50000",
+        "5a751058-f63f-4458-b5bb-bff6d03e08d9",
+        "",
+        "{\"source\":\"student-information-system\",\"sequence\":50000}",
+        "192.0.2.1"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "TotalAmount",
+      "PaidAmount"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "146802",
+        "4500.00",
+        "0.00"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "TotalAmount",
+      "PaidAmount"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "146802",
+        "4500.00",
+        "0.00"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "FirstName",
+      "LastName"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "1",
+        "Andrew",
+        "Collins"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "FirstName",
+      "LastName"
+    ],
+    "rowCount": 1,
+    "sample": [
+      [
+        "1",
+        "Andrew",
+        "Collins"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "FirstName",
+      "Email"
+    ],
+    "rowCount": 839,
+    "sample": [
+      [
+        "2",
+        "Nadia",
+        "academic.office@northbridge.edu"
+      ],
+      [
+        "1924",
+        "Adam",
+        "adam.hassan.01621@students.northbridge.edu"
+      ],
+      [
+        "5524",
+        "Adam",
+        "adam.hassan.05221@students.northbridge.edu"
+      ],
+      [
+        "9124",
+        "Adam",
+        "adam.hassan.08821@students.northbridge.edu"
+      ],
+      [
+        "12836",
+        "Adam",
+        "adam.hassan.12533@students.northbridge.edu"
+      ],
+      [
+        "16436",
+        "Adam",
+        "adam.hassan.16133@students.northbridge.edu"
+      ],
+      [
+        "20036",
+        "Adam",
+        "adam.hassan.19733@students.northbridge.edu"
+      ],
+      [
+        "23636",
+        "Adam",
+        "adam.hassan.23333@students.northbridge.edu"
+      ],
+      [
+        "27236",
+        "Adam",
+        "adam.hassan.26933@students.northbridge.edu"
+      ],
+      [
+        "30836",
+        "Adam",
+        "adam.hassan.30533@students.northbridge.edu"
+      ],
+      [
+        "34436",
+        "Adam",
+        "adam.hassan.34133@students.northbridge.edu"
+      ],
+      [
+        "38036",
+        "Adam",
+        "adam.hassan.37733@students.northbridge.edu"
+      ],
+      [
+        "41636",
+        "Adam",
+        "adam.hassan.41333@students.northbridge.edu"
+      ],
+      [
+        "45236",
+        "Adam",
+        "adam.hassan.44933@students.northbridge.edu"
+      ],
+      [
+        "48836",
+        "Adam",
+        "adam.hassan.48533@students.northbridge.edu"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "FirstName",
+      "Email"
+    ],
+    "rowCount": 839,
+    "sample": [
+      [
+        "2",
+        "Nadia",
+        "academic.office@northbridge.edu"
+      ],
+      [
+        "61",
+        "Olivia",
+        "olivia.hassan.058@faculty.northbridge.edu"
+      ],
+      [
+        "90",
+        "Anthony",
+        "anthony.hassan.087@faculty.northbridge.edu"
+      ],
+      [
+        "179",
+        "Julia",
+        "julia.hassan.176@faculty.northbridge.edu"
+      ],
+      [
+        "208",
+        "Thomas",
+        "thomas.hassan.205@faculty.northbridge.edu"
+      ],
+      [
+        "297",
+        "Emily",
+        "emily.hassan.294@faculty.northbridge.edu"
+      ],
+      [
+        "355",
+        "Sara",
+        "sara.hassan.00052@students.northbridge.edu"
+      ],
+      [
+        "402",
+        "Mariam",
+        "mariam.hassan.00099@students.northbridge.edu"
+      ],
+      [
+        "449",
+        "Hassan",
+        "hassan.hassan.00146@students.northbridge.edu"
+      ],
+      [
+        "496",
+        "Chloe",
+        "chloe.hassan.00193@students.northbridge.edu"
+      ],
+      [
+        "603",
+        "Zoe",
+        "zoe.hassan.00300@students.northbridge.edu"
+      ],
+      [
+        "650",
+        "Omar",
+        "omar.hassan.00347@students.northbridge.edu"
+      ],
+      [
+        "697",
+        "Layla",
+        "layla.hassan.00394@students.northbridge.edu"
+      ],
+      [
+        "744",
+        "Farah",
+        "farah.hassan.00441@students.northbridge.edu"
+      ],
+      [
+        "791",
+        "Anna",
+        "anna.hassan.00488@students.northbridge.edu"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "InvoiceId",
+      "Amount"
+    ],
+    "rowCount": 8916,
+    "sample": [
+      [
+        "107485",
+        "135437",
+        "1725.00"
+      ],
+      [
+        "107486",
+        "123721",
+        "2325.00"
+      ],
+      [
+        "107488",
+        "130906",
+        "2250.00"
+      ],
+      [
+        "107489",
+        "132234",
+        "2550.00"
+      ],
+      [
+        "107490",
+        "132403",
+        "1012.50"
+      ],
+      [
+        "107491",
+        "127966",
+        "1012.50"
+      ],
+      [
+        "107492",
+        "131384",
+        "1012.50"
+      ],
+      [
+        "107493",
+        "128699",
+        "742.50"
+      ],
+      [
+        "107494",
+        "126120",
+        "1750.00"
+      ],
+      [
+        "107495",
+        "130365",
+        "2350.00"
+      ],
+      [
+        "107497",
+        "128799",
+        "1875.00"
+      ],
+      [
+        "107498",
+        "129463",
+        "877.50"
+      ],
+      [
+        "107499",
+        "135978",
+        "2475.00"
+      ],
+      [
+        "107501",
+        "130714",
+        "2250.00"
+      ],
+      [
+        "107503",
+        "124949",
+        "1147.50"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  },
+  {
+    "columns": [
+      "Id",
+      "InvoiceId",
+      "Amount"
+    ],
+    "rowCount": 8916,
+    "sample": [
+      [
+        "107485",
+        "135437",
+        "1725.00"
+      ],
+      [
+        "107486",
+        "123721",
+        "2325.00"
+      ],
+      [
+        "107488",
+        "130906",
+        "2250.00"
+      ],
+      [
+        "107489",
+        "132234",
+        "2550.00"
+      ],
+      [
+        "107490",
+        "132403",
+        "1012.50"
+      ],
+      [
+        "107491",
+        "127966",
+        "1012.50"
+      ],
+      [
+        "107492",
+        "131384",
+        "1012.50"
+      ],
+      [
+        "107493",
+        "128699",
+        "742.50"
+      ],
+      [
+        "107494",
+        "126120",
+        "1750.00"
+      ],
+      [
+        "107495",
+        "130365",
+        "2350.00"
+      ],
+      [
+        "107497",
+        "128799",
+        "1875.00"
+      ],
+      [
+        "107498",
+        "129463",
+        "877.50"
+      ],
+      [
+        "107499",
+        "135978",
+        "2475.00"
+      ],
+      [
+        "107501",
+        "130714",
+        "2250.00"
+      ],
+      [
+        "107503",
+        "124949",
+        "1147.50"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "Microsoft SQL Server 2005 XML Showplan"
+    ],
+    "rowCount": 1,
+    "sample": []
+  }
+]
