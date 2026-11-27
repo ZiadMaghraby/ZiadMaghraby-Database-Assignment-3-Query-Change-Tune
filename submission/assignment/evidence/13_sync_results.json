@@ -1,0 +1,156 @@
+[
+  {
+    "columns": [
+      "ChangeType",
+      "CourseId",
+      "OldTitle",
+      "NewTitle",
+      "IsVisible"
+    ],
+    "rowCount": 201,
+    "sample": [
+      [
+        "INSERT",
+        "1",
+        "",
+        "Programming Fundamentals",
+        "True"
+      ],
+      [
+        "INSERT",
+        "2",
+        "",
+        "Object-Oriented Programming",
+        "True"
+      ],
+      [
+        "INSERT",
+        "3",
+        "",
+        "Data Structures",
+        "True"
+      ],
+      [
+        "INSERT",
+        "4",
+        "",
+        "Algorithms and Complexity",
+        "True"
+      ],
+      [
+        "INSERT",
+        "5",
+        "",
+        "Database Systems",
+        "True"
+      ],
+      [
+        "INSERT",
+        "6",
+        "",
+        "Web Application Development",
+        "True"
+      ],
+      [
+        "INSERT",
+        "7",
+        "",
+        "Operating Systems",
+        "True"
+      ],
+      [
+        "INSERT",
+        "8",
+        "",
+        "Computer Networks",
+        "True"
+      ],
+      [
+        "INSERT",
+        "9",
+        "",
+        "Software Architecture",
+        "True"
+      ],
+      [
+        "INSERT",
+        "10",
+        "",
+        "Cloud Computing",
+        "True"
+      ],
+      [
+        "INSERT",
+        "11",
+        "",
+        "Artificial Intelligence",
+        "True"
+      ],
+      [
+        "INSERT",
+        "12",
+        "",
+        "Graduation Project",
+        "True"
+      ],
+      [
+        "INSERT",
+        "13",
+        "",
+        "Introduction to Information Systems",
+        "True"
+      ],
+      [
+        "INSERT",
+        "14",
+        "",
+        "Business Process Management",
+        "True"
+      ],
+      [
+        "INSERT",
+        "15",
+        "",
+        "Systems Analysis and Design",
+        "True"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "ChangeType",
+      "CourseId",
+      "OldTitle",
+      "NewTitle",
+      "IsVisible"
+    ],
+    "rowCount": 2,
+    "sample": [
+      [
+        "UPDATE",
+        "1",
+        "Programming Fundamentals",
+        "Updated course title - sync test",
+        "True"
+      ],
+      [
+        "UPDATE",
+        "2",
+        "Object-Oriented Programming",
+        "Object-Oriented Programming",
+        "False"
+      ]
+    ]
+  },
+  {
+    "columns": [
+      "ChangeType",
+      "CourseId",
+      "OldTitle",
+      "NewTitle",
+      "IsVisible"
+    ],
+    "rowCount": 0,
+    "sample": []
+  }
+]
